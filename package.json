@@ -1,0 +1,24 @@
+{
+  "name": "quickedit-table",
+  "version": "1.0.0",
+  "description": "A fast and efficient editable table package",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "quick",
+    "edit",
+    "table",
+    "editable",
+    "typescript"
+  ],
+  "author": "Htet Lin Maung <jsthtet96@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "files": [
+    "lib/"
+  ]
+}
